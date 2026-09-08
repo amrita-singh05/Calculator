@@ -1,0 +1,1 @@
+alert("Amrita ki first website")
